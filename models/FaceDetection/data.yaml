@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['face']
+
+roboflow:
+  workspace: clone-universe
+  project: face-detection-ys9lp
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/clone-universe/face-detection-ys9lp/dataset/2
