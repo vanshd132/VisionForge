@@ -25,7 +25,7 @@ This directory contains screenshots and images demonstrating the VisionForge pla
 *Detailed training progress and metrics*
 
 ### API Documentation
-![API Documentation](Work_images\Screenshot 2025-06-04 232515.png)
+![API Documentation](Work_images/Screenshot%202025-06-04%20232515.png)
 *API documentation and endpoints reference*
 
 ### Initial Setup
